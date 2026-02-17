@@ -253,43 +253,4 @@ sistema-operacional/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
-
----
-
-## 📸 Capturas de Tela
-
-Adicione prints do sistema em funcionamento:
-
-```markdown
-![Monitor](docs/monitor.png)
-![Processos](docs/processos.png)
-```
-
----
-
-## 🤝 Contribuindo
-
-1. Faça um fork do projeto  
-2. Crie uma branch:
-
-```bash
-git checkout -b minha-feature
-```
-
-3. Commit:
-
-```bash
-git commit -m "Minha nova feature"
-```
-
-4. Push:
-
-```bash
-git push origin minha-feature
-```
-
-5. Abra um Pull Request  
-
-
 
